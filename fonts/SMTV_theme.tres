@@ -1,0 +1,6 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://boj2yh0imohd1"]
+
+[ext_resource type="FontFile" uid="uid://cci3fbgbgbjan" path="res://fonts/CattleTrailJNL.otf" id="1_v8d71"]
+
+[resource]
+default_font = ExtResource("1_v8d71")
